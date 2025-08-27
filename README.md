@@ -2,5 +2,5 @@
 
 # Live Demo🚀
 
-### [Click Here](https://avery-care-frontend.vercel.app/)
+### [Click Here](https://averycare.vercel.app )
 
